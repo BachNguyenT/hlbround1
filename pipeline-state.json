@@ -1,0 +1,104 @@
+{
+  "product": "HLB Point-of-Purchase Credit Decisioning (working name)",
+  "slug": "businessChallenge2026",
+  "created": "2026-09-28",
+  "last_updated": "2026-09-30",
+  "current_skill": null,
+  "skills": {
+    "01": {
+      "status": "done",
+      "file": "01-foundation/01-product-strategy.md"
+    },
+    "02": {
+      "status": "done",
+      "file": "02-discover/02-market-research.md"
+    },
+    "03": {
+      "status": "done",
+      "file": "02-discover/03-user-research.md"
+    },
+    "04": {
+      "status": "done",
+      "file": "02-discover/04-problem-research.md"
+    },
+    "05": {
+      "status": "done",
+      "file": "02-discover/05-persona-research.md"
+    },
+    "06": {
+      "status": "done",
+      "file": "03-define/06-problem-statement.md"
+    },
+    "07": {
+      "status": "done",
+      "file": "03-define/07-problem-solution-fit.md",
+      "depth": "full"
+    },
+    "08": {
+      "status": "done",
+      "file": "03-define/08-v1-product-scoping.md"
+    },
+    "09": {
+      "status": "done",
+      "file": "03-define/09-lean-canvas.md"
+    },
+    "10": {
+      "status": "done",
+      "file": "03-define/10-success-metrics.md"
+    },
+    "11": {
+      "status": "done",
+      "file": "03-define/11-prioritisation.md"
+    },
+    "12": {
+      "status": "abbreviated",
+      "file": "04-design/12-solution-proposal.md",
+      "depth": "abbreviated",
+      "abbreviation_reason": "User specified the solution mechanism on 2026-09-30 (central AI credit-profile engine consumed across six journey stages; SD-1..SD-7), so the user's approach is recorded as the single Recommended Option with rationale, top-3 assumptions and a per-component AI-value test."
+    },
+    "13": {
+      "status": "done",
+      "file": "04-design/13-solution-design.md"
+    },
+    "14": {
+      "status": "done",
+      "file": "04-design/14-technical-feasibility.md"
+    },
+    "15": {
+      "status": "done",
+      "file": "05-specify/15-user-journey-map.md"
+    },
+    "16": {
+      "status": "done",
+      "file": "05-specify/16-epic-feature-decomposition.md"
+    },
+    "17": {
+      "status": "done",
+      "file": "05-specify/17-user-stories.md"
+    },
+    "18": {
+      "status": "done",
+      "file": "05-specify/18-nfr.md"
+    },
+    "19": {
+      "status": "done",
+      "file": "05-specify/19-data-requirements.md"
+    },
+    "20": {
+      "status": "done",
+      "file": "05-specify/20-error-states.md"
+    },
+    "21": {
+      "status": "done",
+      "file": "05-specify/21-risk-register.md"
+    },
+    "22": {
+      "status": "done",
+      "file": "06-closure/22-assumption-closure.md"
+    },
+    "23": {
+      "status": "done",
+      "file": "07-deliver/23-product-prd.md"
+    }
+  }
+}
